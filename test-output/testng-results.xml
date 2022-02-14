@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-14T12:16:54 IST" name="Default suite" finished-at="2022-02-14T12:17:01 IST" duration-ms="7225">
+    <groups>
+    </groups>
+    <test started-at="2022-02-14T12:16:54 IST" name="Default test" finished-at="2022-02-14T12:17:01 IST" duration-ms="7225">
+      <class name="APITesting.FirstApi">
+        <test-method signature="getResponseBody()[pri:0, instance:APITesting.FirstApi@693fe6c9]" started-at="2022-02-14T12:16:54 IST" name="getResponseBody" finished-at="2022-02-14T12:17:01 IST" duration-ms="6778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseBody -->
+        <test-method signature="getResponseContentType()[pri:0, instance:APITesting.FirstApi@693fe6c9]" started-at="2022-02-14T12:17:01 IST" name="getResponseContentType" finished-at="2022-02-14T12:17:01 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseContentType -->
+        <test-method signature="getResponseHeaders()[pri:0, instance:APITesting.FirstApi@693fe6c9]" started-at="2022-02-14T12:17:01 IST" name="getResponseHeaders" finished-at="2022-02-14T12:17:01 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseHeaders -->
+        <test-method signature="getResponseTime()[pri:0, instance:APITesting.FirstApi@693fe6c9]" started-at="2022-02-14T12:17:01 IST" name="getResponseTime" finished-at="2022-02-14T12:17:01 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponseTime -->
+        <test-method signature="getStatuscode()[pri:0, instance:APITesting.FirstApi@693fe6c9]" started-at="2022-02-14T12:17:01 IST" name="getStatuscode" finished-at="2022-02-14T12:17:01 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatuscode -->
+      </class> <!-- APITesting.FirstApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
